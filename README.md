@@ -1,86 +1,124 @@
+# Snehitha Sai Sappa — Software Engineering Portfolio
 
----
-
-# 💻 Snehitha Sai Sappa — Software Engineer Portfolio
-
-Welcome to my Software Engineering portfolio! Here you’ll explore a curated selection of projects and experiences that showcase my expertise in cloud computing, full-stack development, system automation, and secure backend engineering. This portfolio reflects my passion for designing scalable, efficient, and secure solutions using cutting-edge technologies like Python, Java, Go, AWS, Docker, and more.
-
-🔗 **Live Portfolio:** [https://snehitha2123.github.io/Snehitha-Portfolio/](https://snehitha2123.github.io/Snehitha-Portfolio/)
+Welcome to my portfolio repository 👋  
+This repository showcases selected projects that reflect my experience across **full-stack development, data analytics, and data engineering**, with a focus on building scalable systems, working with data, and deploying cloud-native solutions.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Master’s student in Information Technology and Project Management at **Arizona State University** specializing in:
+I am a **Full-Stack Software Engineer** with hands-on experience building responsive web applications, scalable backend services, and data-driven systems. My background spans **frontend development (React)**, **backend API design (Python, Flask/FastAPI, Node.js)**, **SQL-based data workflows**, and **cloud platforms such as AWS and GCP**.
 
-* 🌐 Full-Stack Web Development
-* ☁️ Cloud-Native Architecture & Automation (AWS, Docker, CI/CD)
-* 🔐 Secure Systems & Backend Engineering
-* 📊 Data Science & Machine Learning Applications
-
-I am passionate about building robust systems that prioritize scalability, security, and user-centric design.
+I enjoy working at the intersection of **software engineering and data**—designing reliable APIs, transforming raw data into insights, and automating workflows to improve efficiency and scalability.
 
 ---
 
-## 💼 Work Experience Highlights
+## 🧰 Technical Skills
 
-* **Graduate Teaching Assistant - Software Engineering** – Arizona State University
-* **Software Development Engineer - Full Stack & DevOps** – Arik Infotech Pvt. Ltd.
-* **Software Engineer - Cloud Automation & Optimization** – AICTE Edu Skills
+**Frontend**
+- React.js, JavaScript (ES6+), HTML5, CSS3
 
----
+**Backend**
+- Python (Flask, FastAPI)
+- Node.js
+- REST API Design
 
-## 🚀 Featured Projects
+**Data & Analytics**
+- SQL (PostgreSQL, MySQL)
+- Pandas, NumPy
+- ETL Pipelines
+- Data Visualization (Tableau, Plotly, Matplotlib)
 
-| Project                                 | Category                        | Description                                                                                           |
-| --------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **System Monitoring CLI Tool**          | Security & Systems Development    | High-performance Go CLI for parsing 10GB+ AWS CloudWatch logs, reducing debugging time by 30%.        |
-| **IT Asset Management System**          | Full-Stack Development & Cloud Computing    | Cloud-based asset tracking platform improving data accuracy by 40% and operational efficiency by 25%. |
-| **Score Craft (Capstone Project)**      | Full-Stack Development & Cloud Computing    | Agile-led academic grading automation system cutting evaluation time by 50%.                          |
-| **Student Grade Prediction using ML**   | Machine Learning & Data Science | Multi-model classifier predicting student grades with 85%+ accuracy using Python.                     |
-| **Interactive Loan Analysis Dashboard** | Machine Learning & Data Science | Dynamic dashboard using Python, R, and Tableau that improved loan data exploration by 35%.            |
-| **Email Encryption Automation**         | Security & Systems Dvelopment  | Secure email system with RSA, RC4, TLS protocols to ensure data confidentiality.                      |
-
----
-
-## 📜 Certifications
-
-* AWS Academy: Cloud Foundations, Machine Learning Foundations, Cloud Architecting
-* iNeuron: Java Programming, Pre-Ethical Hacking
-* Pirple: Web Development (HTML5, CSS3)
-* Simplilearn: Data Science with Python
+**Cloud & DevOps**
+- AWS (EC2, S3, RDS, Lambda)
+- Docker
+- CI/CD (GitHub Actions, Jenkins)
+- Git
 
 ---
 
-## 🛠️ Technical Skills
+## 📂 Featured Projects
 
-* **Languages:** Python, Java, Go, JavaScript, SQL, C++
-* **Frontend:** React, HTML5, CSS3, Redux, Material UI
-* **Backend:** Node.js, Express.js, Flask, REST APIs, Spring Boot
-* **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI, AWS CloudWatch
-* **Cloud Platforms:** AWS (EC2, RDS, S3, IAM), GCP
-* **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-* **Tools:** Git, GitHub, Jira, Tableau, Power BI, Figma
+### 1️⃣ SCORECRAFT — Automated Evaluation & Analysis Platform  
+**Category:** Full-Stack & Cloud Engineering  
 
----
+A scalable backend platform designed to automate the evaluation and analysis of large volumes of student submissions with consistent and reproducible scoring.
 
-## 📬 Contact Me
-
-* **Email:** [ssnehitha2012@gmail.com](mailto:ssnehitha2012@gmail.com)
-* **LinkedIn:** [linkedin.com/in/snehithasaisappa2112](https://www.linkedin.com/in/snehithasaisappa2112/)
-* **Location:** Tempe, AZ, USA
+**Tech Stack:** Python, Flask/FastAPI, MySQL, REST APIs  
+**Key Focus:** Backend system design, SQL optimization, performance tuning
 
 ---
 
-### 📌 How to Use
+### 2️⃣ LOANANALYTICS — Interactive Loan Insights Dashboard  
+**Category:** Data Analytics & Data Engineering  
 
-* Visit the live portfolio at [https://snehitha2123.github.io/Snehitha-Portfolio/](https://snehitha2123.github.io/Snehitha-Portfolio/)
-* Or clone this repo and open `index.html` in your browser
+An interactive analytics dashboard built to explore loan datasets and surface insights through visual storytelling and structured reporting.
+
+**Tech Stack:** Python, SQL, Tableau, Plotly  
+**Key Focus:** Data analysis, visualization, reporting
+
+---
+
+### 3️⃣ FINASSET TRACK — Cloud-Based Financial Asset Management System  
+**Category:** Full-Stack & Cloud Engineering  
+
+A cloud-native system for tracking and managing financial assets with reliable backend workflows and optimized data access.
+
+**Tech Stack:** Python, SQL, AWS EC2, AWS RDS, REST APIs  
+**Key Focus:** Cloud deployment, backend services, database design
 
 ---
 
-> © 2025 Snehitha Sai Sappa
-> Portfolio built with HTML, CSS, JavaScript | Hosted on GitHub Pages
+### 4️⃣ TOUREASE — Tourism Booking & Management Platform  
+**Category:** Full-Stack & Cloud Engineering  
+
+A full-stack application designed to manage tourism bookings, customer data, and operational workflows.
+
+**Tech Stack:** Python, SQL, MongoDB  
+**Key Focus:** Full-stack development, CRUD operations, data modeling
 
 ---
+
+### 5️⃣ SKILLMATCH — Semantic Web–Based Job Recommender System  
+**Category:** Data Analytics & Data Engineering  
+
+A semantic-web-driven job recommendation system that matches user skills with job market data.  
+📄 *Published in IJARSCT.*
+
+**Tech Stack:** Python, SQL, RDF, SPARQL, REST APIs  
+**Key Focus:** Data preprocessing, semantic modeling, recommendation logic
+
+---
+
+### 6️⃣ SECUREMAIL — End-to-End Encrypted Email Communication System  
+**Category:** Systems & Applied Security  
+
+A secure email communication system implementing end-to-end encryption and protocol-level integration.
+
+**Tech Stack:** Python, RSA, RC4, SMTP, Firebase  
+**Key Focus:** Applied cryptography, secure system design
+
+---
+
+## 🚀 How to Navigate This Repository
+
+- Each project is organized in its own directory.
+- Individual project folders include:
+  - Source code
+  - Project-specific README
+  - Setup and execution instructions (where applicable)
+
+---
+
+## 📫 Contact & Links
+
+- **Portfolio:** https://snehitha2123.github.io/ssappa_portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/ssappa/
+- **Email:** ssnehitha2012@gmail.com
+
+Feel free to explore the projects or reach out if you'd like to discuss software engineering, data analytics, or collaboration opportunities.
+
+---
+
+⭐ If you find this work interesting, feel free to star the repository!
 
